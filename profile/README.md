@@ -11,7 +11,8 @@ Start at [gamerdex.app](https://gamerdex.app) or open a tracker directly.
 | Dinkum | [dinkum.gamerdex.app](https://dinkum.gamerdex.app) | [dinkum-tracker](https://github.com/GamerdexApp/dinkum-tracker) |
 | Stardew Valley | [stardew-valley.gamerdex.app](https://stardew-valley.gamerdex.app) | [stardew-valley-companion](https://github.com/GamerdexApp/stardew-valley-companion) |
 | Whiteout Survival | [whiteout-survival.gamerdex.app](https://whiteout-survival.gamerdex.app) | [whiteout-survival-tracker](https://github.com/GamerdexApp/whiteout-survival-tracker) |
-| Supermarket Simulator | [supermarket-simulator.gamerdex.app](https://supermarket-simulator.gamerdex.app) | |
+| Supermarket Simulator | [supermarket-simulator.gamerdex.app](https://supermarket-simulator.gamerdex.app) | [supermarket-simulator-buddy](https://github.com/GamerdexApp/supermarket-simulator-buddy) |
+| Clash of Clans | [coc.gamerdex.app](https://coc.gamerdex.app) | [clash-of-clans-tracker](https://github.com/GamerdexApp/clash-of-clans-tracker) |
 
 ## Cloud sync
 
